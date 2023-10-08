@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Modules_Loops3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules_ControlStractures2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules_Intro1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Progress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rating_ControlStractures2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rating_FinalTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rating_Intro1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rating_Loops3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
