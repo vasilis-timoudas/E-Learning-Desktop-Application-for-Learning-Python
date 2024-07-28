@@ -1,2 +1,2 @@
-# E-Learning-for-Python
-Desktop Application with C# for E-Learning in Python for my University Project
+# E-Learning-Desktop-Application-for-Learning-Python
+E-Learning Desktop Application for Learning Python in C#
